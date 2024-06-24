@@ -120,8 +120,8 @@ We welcome contributions! Please fork the repository and create a pull request w
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-For any questions or feedback, feel free to contact [your-email@example.com](mailto:your-email@example.com). Happy analyzing!
+For any questions or feedback, feel free to contact [ishuishunisha34097@gmail.com](mailto:ishuishunisha34097@gmail.com). Happy analyzing!
